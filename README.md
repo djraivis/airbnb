@@ -1,3 +1,7 @@
 # Getting Started with Create React App
 
-This is app is built followed by Scrimba Tut
+This app is built, followed by Scrimba Tut.
+
+## How to setup github workflows
+
+https://www.youtube.com/watch?v=K5DTIf-jWhk
